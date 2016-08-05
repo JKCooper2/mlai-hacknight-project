@@ -1,0 +1,4 @@
+*.py[cod]
+
+# Pycharm Project
+.idea
